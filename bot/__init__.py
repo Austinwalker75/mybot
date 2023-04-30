@@ -66,7 +66,7 @@ a2c = Popen(["./aria.sh"], shell=True)
 sleep(1)
 
 Interval = []
-DRIVES_NAMES = []
+DRIVES_NAMES = AustinWalker[]
 DRIVES_IDS = []
 INDEX_URLS = []
 
